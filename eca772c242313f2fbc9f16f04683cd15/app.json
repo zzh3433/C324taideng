@@ -1,0 +1,13 @@
+{
+  "pages": [
+          "pages/323/323"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "C324智能台灯-mcookie端发送信息",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
